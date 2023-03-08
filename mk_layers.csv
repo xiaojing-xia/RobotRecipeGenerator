@@ -1,0 +1,4 @@
+Index,UnitName,Description,LibraryName,Chemical,source,Value,parameter,Tag,Action
+1,undefined,Set UseWithProtocolName to 'Sample Preparation'; reactor (A1:H12),reactor,,,Sample Preparation,UseWithProtocolName,"Herman,Protocol",dispense
+2,ul,Add discrete amounts of m-xylene in ul to reagent reservoir (A1:D6) in ul,reagent reservoir,m-xylene,,,,"1000uLTip,6Tip,Herman",dispense
+3,ul,Add 9000 ul Zinc acetate stock 3 mM to stock plate (A1:A6) in ul,stock plate,Zinc acetate stock 3 mM,,9000,,Herman,stir
